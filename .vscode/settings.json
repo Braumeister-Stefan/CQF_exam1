@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^git init; git add \\.; git commit -m \"Initial commit\"$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}
