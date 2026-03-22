@@ -1,1 +1,0 @@
-print("File for CQF exam 1")
